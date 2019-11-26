@@ -131,5 +131,99 @@ Stock buy and sell
 
 Fill array with 1's - https://practice.geeksforgeeks.org/problems/fill-array-by-1s/0
 
+Merge two sorted linked list into one without any extra space.
+
+
+Segregate even and odd number in the list with out using extra space.
+
+Create Balanced binary search tree from sorted array
+
+Given dictionary of alien language. You need to find order of alphabets based on dictionary – Topological sorting
+Print all valid words that are possible using Characters of Array
+
+
+Greater on right side - https://practice.geeksforgeeks.org/problems/greater-on-right-side/0
+Smallest range in K lists - https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1
+
+Relative Sorting https://practice.geeksforgeeks.org/problems/relative-sorting/0
+
+Array to BST - https://practice.geeksforgeeks.org/problems/array-to-bst/0
+
+Rearrange characters - https://practice.geeksforgeeks.org/problems/rearrange-characters/0
+
+
+Detect cycle in a directed graph
+Max rectangle - https://practice.geeksforgeeks.org/problems/max-rectangle/1
+
+
+Max rectangle - https://practice.geeksforgeeks.org/problems/max-rectangle/1
+Convert infix to postfix and evaluate postfix.
+
+
+Counting elements in two arrays - https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1
+
+
+Sum equals to Sum - https://practice.geeksforgeeks.org/problems/sum-equals-to-sum/0
+Given a number, find the next smallest palindrome
+
+Remove minimum number of characters so that two strings become anagram
+
+Find an element in an unsorted array such that all left elements are smaller and all right elements are greater.
+
+Maximum Non-Adjacent Subsequence
+
+Profit sort (Find no. of elements in the given range)
+Merge 2 sorted linked list into sorted one
+Write a code to convert a palindrome number to next immediate higher number and it’s a palindrome too 
+
+Given 2 array of size m , n , find the pair from diff array with minimum difference
+Circle of strings - https://practice.geeksforgeeks.org/problems/circle-of-strings/0
+
+Merge K sorted arrays in optimized way.
+
+ buying and selling multiple times to maximize final profit
+ 
+ Stock span problem - https://practice.geeksforgeeks.org/problems/stock-span-problem/0
+ 
+ 
+  All permutations of a string
+Print all distinct permutations of a given string with duplicates
+
+Maximum Index - https://practice.geeksforgeeks.org/problems/maximum-index/0
+
+8. Given an infinitely large array, find the given element.
+
+7. Find the largest repeated sub-sequence in a given string.
+
+6. Find a triplet among the given numbers that satisfies a + b = c.
+
+5. Add ‘1’ to a given number (in the form of a singly linked list) without reversing the linked list.
+
+
+Swapping pairs make sum equal
+Inversion of array
+Smallest subarray with sum greater than x - https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0
+Find Missing And Repeating
+You have given an array with repeating numbers, and a window k less than n, you were suppose to find if there is any repeating element for and ith index, like { 1, 2, 3, 4, 5, 2, 5} and k=2, for i=4, it is true.
+ Kth largest or smallest element in an array
+Connect N ropes with minimum cost
+
+Multiply two integers without using multiplication, division and bitwise operators, and no loops
+
+Find the sum of lengths of non-overlapping contiguous subarrays with k as the maximum element.
+
+
+Sum of Lengths of Non-Overlapping SubArrays - https://practice.geeksforgeeks.org/problems/sum-of-lengths-of-non-overlapping-subarrays/0
+
+
+Odd even level difference - https://practice.geeksforgeeks.org/problems/odd-even-level-difference/1
+
+Row with max 1s - https://practice.geeksforgeeks.org/problems/row-with-max-1s/0
+
+Swapping pairs make sum equal
+Inversion of array
+Smallest subarray with sum greater than x - https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0
+Find Missing And Repeating
+
 
 
