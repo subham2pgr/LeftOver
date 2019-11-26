@@ -224,6 +224,98 @@ Swapping pairs make sum equal
 Inversion of array
 Smallest subarray with sum greater than x - https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0
 Find Missing And Repeating
+Graph questions
+* find the shortest path between two given vertices in the graph.
+
+
+Print all the permutation of a given string
+Print a given matrix in spiral form.   https://www.youtube.com/watch?v=siKFOI8PNKM
+Given a sorted dictionary of an alien language, find order of characters
+ Dynamic Programming | Set 21 (Variations of LIS) – GeeksforGeeks -> 1. Building Bridges: 
+ Subset Sum Problem >partition-problem/
+Overlapping rectangles
+ Find minimum number of coins that make a given value
+Boggle (Find all possible words in a board of characters) | Set 1
+Sum of two large numbers
+4. Implement a data structure with push() , pop() , find minimum element in O(1).      Design and Implement Special Stack Data Structure | Added …    
+Number of paths with exactly k coins
+URLify a given string (Replace spaces is %20)
+Time Complexity of STL data structures
+Given N points on a 2D plane, your task is to complete the function maxPoints which returns an integer denoting the maximum number of points which lie on the same straight line.
+LRU cache implementation
+ Design a data structure in which the operations like insert , delete and finding minimum element should be done in O(1) time
+ Given a mountain array and some obstacles in array, check if there is a way to reach the end cell from beginning cell.
+Count all possible paths from top left to bottom right of a mXn matrix
+Pythagorean Triplet in an array
+ basic implementation of stack
+Minimum number of swaps required for arranging pairs adjacent to each other
+
+Find minimum time to finish all jobs with given constraints
+
+Maximum path sum that starting with any cell of 0-th row and ending with any cell of (N-1)-th row
+
+Subset Sum Problem
+
+Design a data-structure SpecialStack (using the STL of stack) that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.
+K’th Smallest/Largest Element in Unsorted Array | Set 2 (Expected Linear Time)
+
+Remove minimum elements from array so that max <= 2 * min
+Given a sorted dictionary of an alien language having N words and k starting alphabets of standard dictionary the task is to complete the function which returns a string denoting the order of characters in the language.
+ Maximum Rectangular Area in a Histogram
+
+Given a sorted dictionary of an alien language, find order of characters
+Given sequentially placed boxes, each representing a number( which may be positive or negative), we need to select the numbers in order to have the maximum sum, having the constraint that if we seelct a given box, we cannot select adjacent box to it, but can select any other.
+
+
+
+
+Connect n ropes with minimum cost
+Find Excel column name from a given column number
+Find the Missing Number in a sorted array
+
+Most frequent element in an array
+Reverse a Linked List in groups of given size
+
+
+
+Binary Array Sorting-https://practice.geeksforgeeks.org/problems/binary-array-sorting/0
+
+First Repeating Element-https://practice.geeksforgeeks.org/problems/first-repeating-element/0
+
+
+Reverse string without using any temporary variable-https://www.geeksforgeeks.org/reverse-string-without-using-any-temporary-variable/
+
+
+Topological sort-https://practice.geeksforgeeks.org/problems/topological-sort/1
+
+Find Pair Given Difference-https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0
+
+Gold Mine Problem-https://practice.geeksforgeeks.org/problems/gold-mine-problem/0
+
+Nth node from end of linked listhttps://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
+
+Maximum of all subarrays of size k-https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0
+
+Find the k most frequent words from a filehttps://www.geeksforgeeks.org/find-the-k-most-frequent-words-from-a-file/
+
+Find first repeated characterhttps://practice.geeksforgeeks.org/problems/find-first-repeated-character/0
+
+3-Way QuickSort (Dutch National Flag)https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/
+
+The Yule Ball-https://www.hackerrank.com/contests/dakshonline/challenges/yule-ball
+
+Find k-th character in string-https://practice.geeksforgeeks.org/problems/find-k-th-character-in-string/0
+
+Minimum Cost of ropes-https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0
+
+Palindromic patitioning-https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0
+
+Print matrix in diagonal pattern-https://practice.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/1
+
+
+Pairs of Positive Negative values in an array-https://www.geeksforgeeks.org/pairs-of-positive-negative-values-in-an-array/
+
+
 
 
 
