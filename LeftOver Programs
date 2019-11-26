@@ -1,0 +1,135 @@
+Find all palindromic sub-strings of a given string
+https://leetcode.com/problems/palindromic-substrings/
+
+
+https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-3-worst-case-linear-time/
+
+
+Stock buy k transactions
+
+https://leetcode.com/problems/word-ladder/
+
+https://practice.geeksforgeeks.org/problems/flip-bits/0
+
+
+Count pairs in array whose sum is divisible by K
+
+https://www.geeksforgeeks.org/type-array-maximum-element/
+
+https://stackoverflow.com/questions/2473114/how-to-find-sum-of-elements-from-given-index-interval-i-j-in-constant-time
+
+
+https://practice.geeksforgeeks.org/problems/make-a-distinct-digit-array/0
+
+https://www.geeksforgeeks.org/linked-list-vs-array/
+
+Find the k most frequent words from a file
+
+Rotate a matrix by 90 degree without using any extra space | Set 2
+
+
+kth smallest element in the given array
+
+Find the two repeating elements in a given array
+
+Check divisibility in a binary stream
+
+https://practice.geeksforgeeks.org/problems/numbers-with-same-first-and-last-digit/0
+
+https://www.geeksforgeeks.org/generate-palindromic-numbers-less-n/
+
+
+Find the first circular tour that visits all petrol pumps
+
+Implement a circular queue using 1-D array
+
+
+Knapsack with Duplicate Items
+
+LRU Cache https://practice.geeksforgeeks.org/problems/lru-cache/1
+
+Merge two sorted arrays with O(1) extra space
+
+Find the number of islands
+
+Sum of two large numbers - https://practice.geeksforgeeks.org/problems/sum-of-numbers-or-number/0
+
+https://www.interviewbit.com/problems/minimum-number-of-swaps-required-for-arranging-pairs-adjacent-to-each-other/
+
+
+Remove duplicates from a string in O(1) extra space
+
+
+Add 1 to a number represented as linked list
+
+Stepping Numbers
+Iterative Tower of Hanoi
+
+Parenthesis Checker
+
+Next Greater Even Number - https://practice.geeksforgeeks.org/problems/next-greater-even-number/0
+Given a word S and a text C. Return the count of the occurences of anagrams of the word in the text.
+topological sorting.
+
+Maximum Possible Sum of Products - https://practice.geeksforgeeks.org/problems/maximum-possible-sum-of-products/0
+
+
+Given an array of integers, and an integer  ‘K’ , find the count of pairs of elements in the array whose sum is equal to 'K'.
+
+
+Given a string S, Check if characters of the given string can be rearranged to form a palindrome
+
+Reverse alternate K nodes in a Singly Linked List
+
+
+Given a string you need to print the size of the longest possible substring that has exactly k unique characters. If there is no possible substring print -1.
+
+
+Rearrange characters in a string such that no two adjacent are same
+
+
+Given an array of positive integers of size N. The task is to make a sorted array which will contain all distinct digits present in A. - https://practice.geeksforgeeks.org/problems/make-a-distinct-digit-array/0
+
+
+
+For a given number N check if it is prime or not. A prime number is a number which is only divisible by 1 and itself.
+
+
+Print all possible strings of length k that can be formed from a set of n characters
+
+Evaluation of Postfix Expression
+
+N meetings in one room - https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0
+
+
+Given two strings A and B, find if A is a subsequence of B. - https://practice.geeksforgeeks.org/problems/check-for-subsequence/0
+
+
+Find sum of all elements in a matrix except the elements in row and/or column of given cell
+
+Substrings with similar first and last characters - https://practice.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters/0
+
+
+Given an array of positive integers. The task is to find inversion count of array. - https://practice.geeksforgeeks.org/problems/inversion-of-array/0
+ Print matrix in diagonal pattern
+ Minimum Cost Path
+ 
+ 
+ Find smallest range containing elements from k lists
+Count Occurences of Anagrams - https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams/0
+Anagram of String - https://practice.geeksforgeeks.org/problems/anagram-of-string/1
+
+
+Element with left side smaller and right side greater - https://practice.geeksforgeeks.org/problems/unsorted-array/0
+
+Count pairs in a sorted array whose sum is less than x
+
+Numbers with same first and last digit - https://practice.geeksforgeeks.org/problems/numbers-with-same-first-and-last-digit/0
+Given an array of N positive integers, print k largest elements from the array.  The output elements should be printed in decreasing order. - https://practice.geeksforgeeks.org/problems/k-largest-elements/0
+Diameter of a binary tree
+Stock buy and sell
+
+Fill array with 1's - https://practice.geeksforgeeks.org/problems/fill-array-by-1s/0
+
+
+
